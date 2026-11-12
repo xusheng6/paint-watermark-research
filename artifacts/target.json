@@ -1,0 +1,19 @@
+{
+  "paint_package": "Microsoft.Paint_11.2605.81.0_arm64__8wekyb3d8bbwe",
+  "dll_file_version": "1.2502.1",
+  "dll_sha256": "a9c41377c6e8f49d911eca452cc28ad18f33249733ab529afea2120fe0aa3b43",
+  "native_standard_status": {
+    "noise": 0,
+    "texture_original": 0,
+    "texture_second": 0,
+    "gradient": -8,
+    "paint_cloud_sample": -8
+  },
+  "native_overwrite_status": {
+    "noise": 0,
+    "texture": 0
+  },
+  "scope": "ARM64; format 1; opaque ARGB; positive stride; 512x512 native fixtures",
+  "original_payload": "000102030405060708090a0b0c0d0e0f",
+  "replacement_payload": "f0f1f2f3f4f5f6f7f8f9fafbfcfdfeff"
+}

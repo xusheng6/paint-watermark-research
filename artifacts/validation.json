@@ -1,0 +1,20 @@
+[
+  {
+    "image": "noise",
+    "minimum_placements": 25,
+    "selected_blocks": 4096,
+    "unequal_channels": 0,
+    "maximum_channel_difference": 0,
+    "psnr_db": 45.8080783379212,
+    "mean_abs_error": 0.9078369140625
+  },
+  {
+    "image": "texture",
+    "minimum_placements": 24,
+    "selected_blocks": 4074,
+    "unequal_channels": 213,
+    "maximum_channel_difference": 1,
+    "psnr_db": 46.98584107160791,
+    "mean_abs_error": 0.7946573893229166
+  }
+]

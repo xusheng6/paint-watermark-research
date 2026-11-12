@@ -1,0 +1,16 @@
+[
+  {
+    "image": "texture",
+    "payload": "f0f1f2f3f4f5f6f7f8f9fafbfcfdfeff",
+    "header_ok": true,
+    "checksum_ok": true,
+    "psnr_db": 48.32845494365237
+  },
+  {
+    "image": "noise",
+    "payload": "f0f1f2f3f4f5f6f7f8f9fafbfcfdfeff",
+    "header_ok": true,
+    "checksum_ok": true,
+    "psnr_db": 46.5168547138266
+  }
+]
